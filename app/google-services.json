@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "956825709431",
+    "firebase_url": "https://kotlinauth-d8784.firebaseio.com",
+    "project_id": "kotlinauth-d8784",
+    "storage_bucket": "kotlinauth-d8784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956825709431:android:47fe748d91095cea",
+        "android_client_info": {
+          "package_name": "com.example.yudha.kotlinauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956825709431-6u8flsovkh2oami4hca8b23qn3818edb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yudha.kotlinauth",
+            "certificate_hash": "04805533a9649085c1149b41bd21716ac80c9de4"
+          }
+        },
+        {
+          "client_id": "956825709431-e7mrh0uslhrm9cdtaq6vp22kldkp379s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yudha.kotlinauth",
+            "certificate_hash": "a3157840867f9378c943b68536fa5f05f12d1b44"
+          }
+        },
+        {
+          "client_id": "956825709431-f2mg3e3jebkf67ao82knm44t9j5o8g51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjQNfCjhoUoNH4Fl4vDedYrPm7pJIWZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956825709431-f2mg3e3jebkf67ao82knm44t9j5o8g51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
